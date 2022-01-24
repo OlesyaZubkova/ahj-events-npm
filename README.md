@@ -7,7 +7,9 @@
 
 ---
 
-### Игра с гоблинами 
+### Игра с гоблинами  [![Build status](https://ci.appveyor.com/api/projects/status/vichaqyww1vc0u6v?svg=true)](https://ci.appveyor.com/project/OlesyaZubkova/ahj-events-npm)
+
+
 
 
 
